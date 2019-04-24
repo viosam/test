@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 testlwc特三四天test
-=======
-testlwcmaster
->>>>>>> master
